@@ -1,0 +1,34 @@
+{
+  "data" : [
+    {
+      "id": 1,
+      "image": "assets/category/media.png",
+      "title": "Сabbage and lettuce (14)",
+      "counter": 23
+    },
+    {
+      "id": 2,
+      "image": "assets/category/image_fruit.png",
+      "title": "Сucumbers and tomatoes (10)",
+      "counter": 23
+    },
+    {
+      "id": 3,
+      "image": "assets/category/image_Bread.png",
+      "title": "Oinons and garlic (8)",
+      "counter": 23
+    },
+    {
+      "id": 4,
+      "image": "assets/category/icSweets.png",
+      "title": "Peppers (7)",
+      "counter": 23
+    },
+    {
+      "id": 5,
+      "image": "assets/category/media.png",
+      "title": "Potatoes and carrots (4)",
+      "counter": 23
+    }
+  ]
+}

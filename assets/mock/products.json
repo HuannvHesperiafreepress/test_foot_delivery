@@ -1,0 +1,25 @@
+{
+  "data" : [
+    {
+      "id": 1,
+      "price": 1.1,
+      "name": "Boston Lettuce",
+      "unit": "piece",
+      "image": "assets/category/media.png"
+    },
+    {
+      "id": 2,
+      "price": 1.85,
+      "name": "Purple Cauliflower",
+      "unit": "piece",
+      "image": "assets/category/media.png"
+    },
+    {
+      "id": 2,
+      "price": 1.1,
+      "name": "Savoy Cabbage",
+      "unit": "kg",
+      "image": "assets/category/media.png"
+    }
+  ]
+}
