@@ -125,6 +125,7 @@ class CategoriesPageState extends State<CategoriesPage> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
+                Container(),
                 SizedBox(height: 20),
                 Expanded(child: GridView.builder(
                     gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
